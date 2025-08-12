@@ -113,8 +113,8 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-62" value="地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="80" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-65" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="150" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
