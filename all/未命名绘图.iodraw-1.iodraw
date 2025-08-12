@@ -116,10 +116,10 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-65" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-405" y="150" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-72" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-470" y="250" as="sourcePoint" />
-            <mxPoint x="-600" y="210" as="targetPoint" />
+            <mxPoint x="-340" y="160" as="sourcePoint" />
+            <mxPoint x="-470" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
