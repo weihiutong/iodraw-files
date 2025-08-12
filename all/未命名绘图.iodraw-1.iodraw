@@ -127,10 +127,11 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-80" value="" style="group" vertex="1" connectable="0" parent="dUIoEOEVRhIkLKBPthWE-81">
           <mxGeometry x="69.99842105263157" y="21.000000000000007" width="185.26315789473682" height="253.75000000000006" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-42" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-32" target="dUIoEOEVRhIkLKBPthWE-33">
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-42" style="endArrow=block;rounded=0;curved=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-32" target="dUIoEOEVRhIkLKBPthWE-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="225" y="197.5" />
+              <mxPoint x="230" y="207.5" />
+              <mxPoint x="160" y="207.5" />
             </Array>
           </mxGeometry>
         </mxCell>
