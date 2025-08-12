@@ -149,10 +149,10 @@
           <mxGeometry x="79.99" y="140.7" width="160.01" height="29.3" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-34" value="动态调度机制" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
-          <mxGeometry x="80" y="244.5" width="160.01" height="30.25" as="geometry" />
+          <mxGeometry x="120" y="177.5" width="160.01" height="30.25" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-33" value="多平台协同与路径规划" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
-          <mxGeometry x="10.000000000000014" y="214.5" width="160.01" height="30" as="geometry" />
+          <mxGeometry x="40.000000000000014" y="257.5" width="160.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-43" style="endArrow=block;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-33" target="dUIoEOEVRhIkLKBPthWE-34">
           <mxGeometry relative="1" as="geometry">
