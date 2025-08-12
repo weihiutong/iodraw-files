@@ -89,9 +89,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-28" value="" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="20" width="360" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-53" value="&lt;span style=&quot;text-align: left;&quot;&gt;多源观测与预测数据输入&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(实测 + 预报)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-520" y="30" width="170" height="30" as="geometry" />
         </mxCell>
@@ -104,8 +101,14 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-55" value="多因子评价模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="440" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-75" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-480" y="80" width="280" height="110" as="geometry" />
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-520" y="20" width="360" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-28" value="" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-76">
+          <mxGeometry width="360" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-75" value="" style="group" vertex="1" connectable="0" parent="dUIoEOEVRhIkLKBPthWE-76">
+          <mxGeometry x="40" y="60" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-52" value="空" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-75">
           <mxGeometry width="60" height="40" as="geometry" />
