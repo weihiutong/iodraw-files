@@ -196,8 +196,8 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-47" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-83" source="dUIoEOEVRhIkLKBPthWE-37" target="dUIoEOEVRhIkLKBPthWE-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-27" value="第三阶段：实时反馈优化" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="580" y="360" width="290" height="320" as="geometry" />
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-27" value="第三阶段：实时反馈优化" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=none;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="290" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
