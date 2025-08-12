@@ -119,7 +119,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-81" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-120" y="310" width="320" height="315" as="geometry" />
+          <mxGeometry x="-130" y="290" width="320" height="315" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-26" value="第二阶段：多目标调度" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
           <mxGeometry width="320" height="315.00000000000006" as="geometry" />
@@ -130,11 +130,6 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-43" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-80" source="dUIoEOEVRhIkLKBPthWE-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="92.63157894736842" y="209.37" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-89" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dUIoEOEVRhIkLKBPthWE-43">
-          <mxGeometry x="-0.2166" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-42" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-32" target="dUIoEOEVRhIkLKBPthWE-33">
