@@ -148,7 +148,7 @@
           <mxGeometry x="79.99" y="90" width="160.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-33" value="多平台协同与路径规划" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
-          <mxGeometry x="79.99" y="190" width="160.01" height="30" as="geometry" />
+          <mxGeometry x="82.61999999999999" y="180" width="160.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-31" value="实时资源状态" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
           <mxGeometry x="79.99" y="40" width="160.01" height="30" as="geometry" />
