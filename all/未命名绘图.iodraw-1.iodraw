@@ -14,7 +14,7 @@
           <mxGeometry x="320" y="390" width="360" height="420" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-28" value="多源观测与预测数据输入&lt;br/&gt;(实测 + 预报)" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="30" width="360" height="60" as="geometry" />
+          <mxGeometry x="-510" y="30" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-29" value="信息融合处理" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="210" width="260" height="60" as="geometry" />
