@@ -12,10 +12,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-19" style="endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-9" target="qSh902Sbe6yWZwgtr0cW-10">
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-19" style="endArrow=block;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-9" target="qSh902Sbe6yWZwgtr0cW-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="950" y="240" />
+              <mxPoint x="950" y="105" />
             </Array>
           </mxGeometry>
         </mxCell>
