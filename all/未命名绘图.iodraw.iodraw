@@ -4,21 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-3" value="第三阶段：试点部署与演练评估" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="240" width="360" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-10" value="湘江流域试点部署" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="280" width="280" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-11" value="全流程应急演练" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="350" width="280" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-12" value="性能评估" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="420" width="280" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-13" value="平台架构与功能迭代优化" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="490" width="280" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-16" style="endArrow=block;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;curved=0;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-27" target="qSh902Sbe6yWZwgtr0cW-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -27,15 +12,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-19" style="endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-9" target="qSh902Sbe6yWZwgtr0cW-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-20" style="endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-10" target="qSh902Sbe6yWZwgtr0cW-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-21" style="endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-11" target="qSh902Sbe6yWZwgtr0cW-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-22" style="endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-12" target="qSh902Sbe6yWZwgtr0cW-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-23" value="平台迭代" style="dashed=1;endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-13" target="qSh902Sbe6yWZwgtr0cW-4">
@@ -102,6 +78,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-18" style="endArrow=block;" edge="1" parent="qSh902Sbe6yWZwgtr0cW-30" source="qSh902Sbe6yWZwgtr0cW-8" target="qSh902Sbe6yWZwgtr0cW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1000" y="240" width="360" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-3" value="第三阶段：试点部署与演练评估" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-31">
+          <mxGeometry width="360" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-10" value="湘江流域试点部署" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-31">
+          <mxGeometry x="40" y="40" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-11" value="全流程应急演练" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-31">
+          <mxGeometry x="40" y="110" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-12" value="性能评估" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-31">
+          <mxGeometry x="40" y="180" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-13" value="平台架构与功能迭代优化" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-31">
+          <mxGeometry x="40" y="250" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-20" style="endArrow=block;" edge="1" parent="qSh902Sbe6yWZwgtr0cW-31" source="qSh902Sbe6yWZwgtr0cW-10" target="qSh902Sbe6yWZwgtr0cW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-21" style="endArrow=block;" edge="1" parent="qSh902Sbe6yWZwgtr0cW-31" source="qSh902Sbe6yWZwgtr0cW-11" target="qSh902Sbe6yWZwgtr0cW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-22" style="endArrow=block;" edge="1" parent="qSh902Sbe6yWZwgtr0cW-31" source="qSh902Sbe6yWZwgtr0cW-12" target="qSh902Sbe6yWZwgtr0cW-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
