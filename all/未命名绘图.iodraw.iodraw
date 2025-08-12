@@ -15,7 +15,7 @@
         <mxCell id="qSh902Sbe6yWZwgtr0cW-19" style="endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-9" target="qSh902Sbe6yWZwgtr0cW-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-23" value="平台迭代" style="dashed=1;endArrow=block;rounded=0;curved=0;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-13" target="qSh902Sbe6yWZwgtr0cW-4">
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-23" value="平台迭代" style="endArrow=block;rounded=0;curved=0;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-13" target="qSh902Sbe6yWZwgtr0cW-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="315" />
