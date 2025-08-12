@@ -17,7 +17,7 @@
         <mxCell id="qSh902Sbe6yWZwgtr0cW-23" value="平台迭代" style="dashed=1;endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-13" target="qSh902Sbe6yWZwgtr0cW-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="320" />
+              <mxPoint x="550" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
