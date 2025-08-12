@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-1" value="第一阶段：平台集成与模块化封装" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-1" value="第一阶段：平台集成与模块化封装" style="shape=rectangle;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="180" y="40" width="400" height="390" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-2" value="第二阶段：可视化交互系统构建" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
