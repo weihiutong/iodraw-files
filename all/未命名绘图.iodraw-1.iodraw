@@ -175,9 +175,6 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-83" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="280" y="306.26" width="290" height="327.5" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-27" value="第三阶段：实时反馈优化" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
-          <mxGeometry width="289.9999999999999" height="327.49999999999994" as="geometry" />
-        </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-35" value="执行与环境反馈" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
           <mxGeometry x="56.38888888888888" y="33.74285714285713" width="177.22222222222214" height="46.78571428571426" as="geometry" />
         </mxCell>
@@ -198,6 +195,9 @@
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-47" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-83" source="dUIoEOEVRhIkLKBPthWE-37" target="dUIoEOEVRhIkLKBPthWE-38">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-27" value="第三阶段：实时反馈优化" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="580" y="360" width="290" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
