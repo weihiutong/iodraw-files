@@ -17,7 +17,7 @@
           <mxGeometry x="-460" y="375" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-30" value="任务优先级队列" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="495" width="260" height="60" as="geometry" />
+          <mxGeometry x="-460" y="525" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-31" value="实时资源状态" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="415" width="180" height="50" as="geometry" />
