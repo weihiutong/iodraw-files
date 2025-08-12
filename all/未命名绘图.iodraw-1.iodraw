@@ -135,9 +135,6 @@
             <mxPoint x="92.63157894736842" y="209.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-32" value="多目标优化模型" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-80">
-          <mxGeometry x="16.83" y="84.99" width="153.17" height="25.01" as="geometry" />
-        </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-42" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-32" target="dUIoEOEVRhIkLKBPthWE-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -158,6 +155,9 @@
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-31" value="实时资源状态" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
           <mxGeometry x="79.99" y="40" width="160.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-32" value="多目标优化模型" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
+          <mxGeometry x="79.99" y="140.7" width="160.01" height="29.3" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-83" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="270" y="390" width="370" height="400" as="geometry" />
