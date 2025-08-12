@@ -14,10 +14,10 @@
         <mxCell id="qSh902Sbe6yWZwgtr0cW-19" style="endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-9" target="qSh902Sbe6yWZwgtr0cW-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-23" value="平台迭代" style="dashed=1;endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-13" target="qSh902Sbe6yWZwgtr0cW-4">
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-23" value="平台迭代" style="dashed=1;endArrow=block;rounded=0;curved=0;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-13" target="qSh902Sbe6yWZwgtr0cW-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="550" y="320" />
+              <mxPoint x="540" y="315" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-30" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550" y="40" width="360" height="250" as="geometry" />
+          <mxGeometry x="570" y="40" width="360" height="250" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-2" value="第二阶段：可视化交互系统构建" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-30">
           <mxGeometry width="360" height="250" as="geometry" />
