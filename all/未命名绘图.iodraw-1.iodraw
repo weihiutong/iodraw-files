@@ -181,7 +181,7 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-27" value="第三阶段：实时反馈优化" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=none;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-96">
           <mxGeometry width="290" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-35" value="执行与环境反馈" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-96">
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-35" value="执行与感知环境反馈" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-96">
           <mxGeometry x="56.38888888888888" y="40.002857142857124" width="177.22222222222214" height="46.78571428571426" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-36" value="感知：策略评估与自适应调整" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
