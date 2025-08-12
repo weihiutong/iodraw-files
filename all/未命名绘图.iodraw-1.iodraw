@@ -49,7 +49,8 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-48" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-30" target="dUIoEOEVRhIkLKBPthWE-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-70" y="550" />
+              <mxPoint x="-110" y="550" />
+              <mxPoint x="-110" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -133,7 +134,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-81" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-100" y="340" width="380" height="360" as="geometry" />
+          <mxGeometry x="-100" y="355" width="380" height="360" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-26" value="第二阶段：多目标调度" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
           <mxGeometry width="380" height="360" as="geometry" />
