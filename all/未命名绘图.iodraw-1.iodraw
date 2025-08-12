@@ -157,7 +157,7 @@
           <mxGeometry x="79.99" y="140.7" width="160.01" height="29.3" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-34" value="动态调度机制" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
-          <mxGeometry x="79.99842105263157" y="230" width="160" height="30" as="geometry" />
+          <mxGeometry x="82.64" y="250" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-83" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="270" y="390" width="370" height="400" as="geometry" />
