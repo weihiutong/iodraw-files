@@ -142,22 +142,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-83" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="280" y="310" width="340" height="330" as="geometry" />
+          <mxGeometry x="280" y="300" width="350" height="380" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-27" value="第三阶段：实时反馈优化" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
-          <mxGeometry width="340" height="330" as="geometry" />
+          <mxGeometry width="349.99999999999994" height="379.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-35" value="执行与环境反馈" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
-          <mxGeometry x="66.1111111111111" y="23.571428571428566" width="207.77777777777774" height="47.14285714285713" as="geometry" />
+          <mxGeometry x="68.05555555555554" y="27.14285714285713" width="213.88888888888883" height="54.28571428571426" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-36" value="策略评估与自适应调整" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
-          <mxGeometry x="66.1111111111111" y="102.14285714285714" width="207.77777777777774" height="47.14285714285713" as="geometry" />
+          <mxGeometry x="68.05555555555554" y="117.6190476190476" width="213.88888888888883" height="54.28571428571426" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-37" value="强化学习驱动迭代优化" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
-          <mxGeometry x="66.1111111111111" y="180.7142857142857" width="207.77777777777774" height="47.14285714285713" as="geometry" />
+          <mxGeometry x="68.05555555555554" y="208.09523809523805" width="213.88888888888883" height="54.28571428571426" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-38" value="智能调度闭环" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
-          <mxGeometry x="66.1111111111111" y="259.2857142857142" width="207.77777777777774" height="47.14285714285713" as="geometry" />
+          <mxGeometry x="68.05555555555554" y="298.5714285714285" width="213.88888888888883" height="54.28571428571426" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-45" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-83" source="dUIoEOEVRhIkLKBPthWE-35" target="dUIoEOEVRhIkLKBPthWE-36">
           <mxGeometry relative="1" as="geometry" />
