@@ -8,7 +8,7 @@
           <mxGeometry x="-500" y="315" width="360" height="310" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-26" value="第二阶段：多目标调度" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="375" width="380" height="360" as="geometry" />
+          <mxGeometry x="-110" y="315" width="380" height="360" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-27" value="第三阶段：实时反馈优化" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="320" y="555" width="360" height="420" as="geometry" />
