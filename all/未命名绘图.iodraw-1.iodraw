@@ -125,7 +125,7 @@
           <mxGeometry width="320" height="315.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-80" value="" style="group" vertex="1" connectable="0" parent="dUIoEOEVRhIkLKBPthWE-81">
-          <mxGeometry x="67.36842105263158" y="30.630000000000006" width="185.26315789473682" height="253.75000000000006" as="geometry" />
+          <mxGeometry x="67.36842105263158" y="55.00000000000001" width="185.26315789473682" height="253.75000000000006" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-31" value="实时资源状态" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-80">
           <mxGeometry x="16.84" width="151.58" height="30" as="geometry" />
@@ -157,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
-          <mxGeometry x="84.21" y="75" width="155.79" height="20" as="geometry" />
+          <mxGeometry x="84.21" y="75" width="155.79" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-83" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="270" y="390" width="370" height="400" as="geometry" />
