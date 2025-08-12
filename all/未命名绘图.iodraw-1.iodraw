@@ -184,13 +184,13 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-35" value="执行" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-96">
           <mxGeometry x="56.39" y="40" width="177.22" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-36" value="感知： 轻量化任务反馈&lt;br&gt;策略评估与自适应调整" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-96">
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-36" value="感知： 轻量化任务反馈" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-96">
           <mxGeometry x="56.39" y="86.26" width="173.61" height="33.74" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-45" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-96" source="dUIoEOEVRhIkLKBPthWE-35" target="dUIoEOEVRhIkLKBPthWE-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-96">
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-97" value="策略评估与自适应调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-96">
           <mxGeometry x="56.39" y="153.13" width="173.61" height="36.87" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-98" value="" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-96" source="dUIoEOEVRhIkLKBPthWE-36" target="dUIoEOEVRhIkLKBPthWE-97">
