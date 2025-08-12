@@ -1,9 +1,83 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="sQ7quHwkux400eBZNEUe">
-    <mxGraphModel dx="609" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2116" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-1" value="第二阶段：多目标调度" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="240" y="970" width="380" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-2" value="第三阶段：实时反馈优化" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1150" width="360" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-3" value="信息融合处理" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="970" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-4" value="任务优先级队列" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1090" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-5" value="实时资源状态" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1010" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-6" value="多目标优化模型" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1090" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-7" value="多平台协同与路径规划" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1170" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-8" value="动态调度机制" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1250" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-9" value="执行与环境反馈" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1210" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-10" value="策略评估与自适应调整" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1310" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-11" value="强化学习驱动迭代优化" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1410" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-12" value="智能调度闭环" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1510" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-13" style="endArrow=block;" edge="1" parent="1" target="dUIoEOEVRhIkLKBPthWE-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="850" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-14" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-3" target="dUIoEOEVRhIkLKBPthWE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-15" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-5" target="dUIoEOEVRhIkLKBPthWE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-16" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-6" target="dUIoEOEVRhIkLKBPthWE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-17" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-7" target="dUIoEOEVRhIkLKBPthWE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-18" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-8" target="dUIoEOEVRhIkLKBPthWE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-19" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-9" target="dUIoEOEVRhIkLKBPthWE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-20" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-10" target="dUIoEOEVRhIkLKBPthWE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-21" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-11" target="dUIoEOEVRhIkLKBPthWE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-22" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-4" target="dUIoEOEVRhIkLKBPthWE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-23" value="调度优化" style="dashed=1;endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-9" target="dUIoEOEVRhIkLKBPthWE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
