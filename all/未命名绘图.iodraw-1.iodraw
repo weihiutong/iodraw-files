@@ -140,7 +140,7 @@
           <mxGeometry width="320" height="315.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-80" value="" style="group" vertex="1" connectable="0" parent="dUIoEOEVRhIkLKBPthWE-81">
-          <mxGeometry x="67.36842105263158" y="35.00000000000001" width="185.26315789473682" height="253.75000000000006" as="geometry" />
+          <mxGeometry x="67.36842105263158" y="30.630000000000006" width="185.26315789473682" height="253.75000000000006" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-31" value="实时资源状态" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-80">
           <mxGeometry x="16.842105263157894" width="151.57894736842104" height="43.75000000000001" as="geometry" />
