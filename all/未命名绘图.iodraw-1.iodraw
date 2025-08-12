@@ -125,7 +125,7 @@
           <mxGeometry width="320" height="315.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-80" value="" style="group" vertex="1" connectable="0" parent="dUIoEOEVRhIkLKBPthWE-81">
-          <mxGeometry x="67.36842105263158" y="55.00000000000001" width="185.26315789473682" height="253.75000000000006" as="geometry" />
+          <mxGeometry x="54.73842105263157" y="40.00000000000001" width="185.26315789473682" height="253.75000000000006" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-34" value="动态调度机制" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-80">
           <mxGeometry x="10" y="210" width="158.42" height="43.75" as="geometry" />
@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-32" value="多目标优化模型" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-80">
-          <mxGeometry x="16.833157894736846" y="84.99499999999999" width="151.57894736842104" height="43.75000000000001" as="geometry" />
+          <mxGeometry x="16.83" y="84.99" width="153.17" height="25.01" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-42" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-32" target="dUIoEOEVRhIkLKBPthWE-33">
           <mxGeometry relative="1" as="geometry" />
