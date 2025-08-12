@@ -23,7 +23,7 @@
           <mxGeometry y="415" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-32" value="多目标优化模型" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="500" width="180" height="50" as="geometry" />
+          <mxGeometry x="10" y="500" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-33" value="多平台协同与路径规划" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="575" width="220" height="50" as="geometry" />
