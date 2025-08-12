@@ -17,7 +17,7 @@
         <mxCell id="qSh902Sbe6yWZwgtr0cW-23" value="平台迭代" style="dashed=1;endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-13" target="qSh902Sbe6yWZwgtr0cW-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="480" />
+              <mxPoint x="620" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -81,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1000" y="240" width="360" height="300" as="geometry" />
+          <mxGeometry x="970" y="40" width="360" height="300" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-3" value="第三阶段：试点部署与演练评估" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-31">
           <mxGeometry width="360" height="300" as="geometry" />
