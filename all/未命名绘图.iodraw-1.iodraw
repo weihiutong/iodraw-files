@@ -95,8 +95,8 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="20" width="60" height="30" as="geometry" />
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-53" value="&lt;span style=&quot;text-align: left;&quot;&gt;多源观测与预测数据输入&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(实测 + 预报)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="20" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
