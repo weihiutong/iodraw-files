@@ -5,46 +5,46 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dUIoEOEVRhIkLKBPthWE-25" value="第一阶段：优先级判定" style="shape=rectangle;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="910" width="360" height="310" as="geometry" />
+          <mxGeometry x="-480" y="270" width="360" height="310" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-26" value="第二阶段：多目标调度" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="240" y="970" width="380" height="360" as="geometry" />
+          <mxGeometry x="-80" y="330" width="380" height="360" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-27" value="第三阶段：实时反馈优化" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1150" width="360" height="420" as="geometry" />
+          <mxGeometry x="340" y="510" width="360" height="420" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-28" value="多源观测与预测数据输入&lt;br/&gt;(实测 + 预报)" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="790" width="360" height="60" as="geometry" />
+          <mxGeometry x="-490" y="150" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-29" value="信息融合处理" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="970" width="260" height="60" as="geometry" />
+          <mxGeometry x="-440" y="330" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-30" value="任务优先级队列" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1090" width="260" height="60" as="geometry" />
+          <mxGeometry x="-440" y="450" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-31" value="实时资源状态" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1010" width="180" height="50" as="geometry" />
+          <mxGeometry x="20" y="370" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-32" value="多目标优化模型" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1090" width="180" height="50" as="geometry" />
+          <mxGeometry x="20" y="450" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-33" value="多平台协同与路径规划" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1170" width="220" height="50" as="geometry" />
+          <mxGeometry y="530" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-34" value="动态调度机制" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1250" width="160" height="50" as="geometry" />
+          <mxGeometry x="40" y="610" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-35" value="执行与环境反馈" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1210" width="220" height="60" as="geometry" />
+          <mxGeometry x="380" y="570" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-36" value="策略评估与自适应调整" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1310" width="220" height="60" as="geometry" />
+          <mxGeometry x="380" y="670" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-37" value="强化学习驱动迭代优化" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1410" width="220" height="60" as="geometry" />
+          <mxGeometry x="380" y="770" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-38" value="智能调度闭环" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1510" width="220" height="60" as="geometry" />
+          <mxGeometry x="380" y="870" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-39" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-28" target="dUIoEOEVRhIkLKBPthWE-29">
           <mxGeometry relative="1" as="geometry" />
@@ -82,14 +82,14 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-50" value="优先级更新" style="dashed=1;endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-38" target="dUIoEOEVRhIkLKBPthWE-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint y="1540" />
-              <mxPoint x="-240" y="1540" />
-              <mxPoint x="-240" y="1000" />
+              <mxPoint x="-320" y="900" />
+              <mxPoint x="-560" y="900" />
+              <mxPoint x="-560" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
