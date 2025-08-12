@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qSh902Sbe6yWZwgtr0cW-2" value="第二阶段：可视化交互系统构建" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="600" y="90" width="360" height="250" as="geometry" />
+          <mxGeometry x="590" y="100" width="360" height="250" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-3" value="第三阶段：试点部署与演练评估" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="1000" y="240" width="360" height="300" as="geometry" />
