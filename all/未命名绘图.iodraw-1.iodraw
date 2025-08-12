@@ -7,26 +7,11 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-25" value="第一阶段：优先级判定" style="shape=rectangle;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="-500" y="315" width="360" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-27" value="第三阶段：实时反馈优化" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="310" y="295" width="360" height="420" as="geometry" />
-        </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-29" value="信息融合处理" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="355" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-30" value="任务优先级队列" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="525" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-35" value="执行与环境反馈" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="615" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-36" value="策略评估与自适应调整" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="715" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-37" value="强化学习驱动迭代优化" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="815" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-38" value="智能调度闭环" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="915" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-39" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-28" target="dUIoEOEVRhIkLKBPthWE-29">
           <mxGeometry relative="1" as="geometry" />
@@ -35,15 +20,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-44" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-34" target="dUIoEOEVRhIkLKBPthWE-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-45" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-35" target="dUIoEOEVRhIkLKBPthWE-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-46" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-36" target="dUIoEOEVRhIkLKBPthWE-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-47" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-37" target="dUIoEOEVRhIkLKBPthWE-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-48" style="endArrow=block;rounded=0;curved=0;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-30" target="dUIoEOEVRhIkLKBPthWE-32">
@@ -163,6 +139,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-41" style="endArrow=block;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-31" target="dUIoEOEVRhIkLKBPthWE-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-83" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="555" width="360" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-27" value="第三阶段：实时反馈优化" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
+          <mxGeometry width="360" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-35" value="执行与环境反馈" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
+          <mxGeometry x="40" y="60" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-36" value="策略评估与自适应调整" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
+          <mxGeometry x="40" y="160" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-37" value="强化学习驱动迭代优化" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
+          <mxGeometry x="40" y="260" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-38" value="智能调度闭环" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
+          <mxGeometry x="40" y="360" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-45" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-83" source="dUIoEOEVRhIkLKBPthWE-35" target="dUIoEOEVRhIkLKBPthWE-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-46" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-83" source="dUIoEOEVRhIkLKBPthWE-36" target="dUIoEOEVRhIkLKBPthWE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-47" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-83" source="dUIoEOEVRhIkLKBPthWE-37" target="dUIoEOEVRhIkLKBPthWE-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
