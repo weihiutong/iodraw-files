@@ -182,7 +182,7 @@
           <mxGeometry width="290" height="320" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-35" value="执行" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-96">
-          <mxGeometry x="56.38888888888888" y="40.002857142857124" width="177.22222222222214" height="46.78571428571426" as="geometry" />
+          <mxGeometry x="56.39" y="40" width="177.22" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-36" value="感知： 轻量化任务反馈&lt;br&gt;策略评估与自适应调整" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-96">
           <mxGeometry x="56.39" y="96.26" width="173.61" height="43.74" as="geometry" />
