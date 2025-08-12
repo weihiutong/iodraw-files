@@ -4,20 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-2" value="第二阶段：可视化交互系统构建" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="590" y="100" width="360" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-3" value="第三阶段：试点部署与演练评估" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="1000" y="240" width="360" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-7" value="指挥中心与移动终端可视化交互" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="140" width="280" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-8" value="风险态势/任务分布/资源状态展示" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="210" width="280" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-9" value="任务指令下达与实时更新" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="280" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-10" value="湘江流域试点部署" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="280" width="280" height="50" as="geometry" />
@@ -37,12 +25,6 @@
               <mxPoint x="540" y="180" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-17" style="endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-7" target="qSh902Sbe6yWZwgtr0cW-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-18" style="endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-8" target="qSh902Sbe6yWZwgtr0cW-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-19" style="endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-9" target="qSh902Sbe6yWZwgtr0cW-10">
           <mxGeometry relative="1" as="geometry" />
@@ -99,6 +81,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-15" style="endArrow=block;" edge="1" parent="qSh902Sbe6yWZwgtr0cW-29" source="qSh902Sbe6yWZwgtr0cW-5" target="qSh902Sbe6yWZwgtr0cW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="40" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-2" value="第二阶段：可视化交互系统构建" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-30">
+          <mxGeometry width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-7" value="指挥中心与移动终端可视化交互" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-30">
+          <mxGeometry x="50" y="40" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-8" value="风险态势/任务分布/资源状态展示" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-30">
+          <mxGeometry x="50" y="110" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-9" value="任务指令下达与实时更新" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-30">
+          <mxGeometry x="50" y="180" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-17" style="endArrow=block;" edge="1" parent="qSh902Sbe6yWZwgtr0cW-30" source="qSh902Sbe6yWZwgtr0cW-7" target="qSh902Sbe6yWZwgtr0cW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-18" style="endArrow=block;" edge="1" parent="qSh902Sbe6yWZwgtr0cW-30" source="qSh902Sbe6yWZwgtr0cW-8" target="qSh902Sbe6yWZwgtr0cW-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
