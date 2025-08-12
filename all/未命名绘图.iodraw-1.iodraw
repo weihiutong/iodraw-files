@@ -127,11 +127,6 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-80" value="" style="group" vertex="1" connectable="0" parent="dUIoEOEVRhIkLKBPthWE-81">
           <mxGeometry x="69.99842105263157" y="21.000000000000007" width="185.26315789473682" height="253.75000000000006" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-43" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-80" source="dUIoEOEVRhIkLKBPthWE-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="92.63157894736842" y="209.37" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-42" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-32" target="dUIoEOEVRhIkLKBPthWE-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -157,7 +152,12 @@
           <mxGeometry x="82.64" y="250" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-33" value="多平台协同与路径规划" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
-          <mxGeometry x="10.000000000000014" y="180" width="160.01" height="30" as="geometry" />
+          <mxGeometry x="79.99000000000001" y="190" width="160.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-43" style="endArrow=block;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-33" target="dUIoEOEVRhIkLKBPthWE-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162.63" y="230.37" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-83" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="270" y="390" width="370" height="400" as="geometry" />
