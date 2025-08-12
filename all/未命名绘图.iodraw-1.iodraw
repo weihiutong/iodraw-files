@@ -130,7 +130,7 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-42" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-32" target="dUIoEOEVRhIkLKBPthWE-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-41" style="endArrow=block;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81">
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-41" style="endArrow=block;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.873;exitY=1.021;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-84">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="164.9949999999999" y="120" as="sourcePoint" />
             <mxPoint x="240" y="143.93000000000006" as="targetPoint" />
@@ -155,7 +155,7 @@
           <mxGeometry x="170" y="143.93" width="130" height="27.15" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-34" value="动态调度机制" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
-          <mxGeometry x="50.000000000000014" y="143.93" width="109.99" height="27.15" as="geometry" />
+          <mxGeometry x="20.000000000000014" y="143.93" width="109.99" height="27.15" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-33" value="多平台协同与路径规划" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
           <mxGeometry x="80.00000000000001" y="217.5" width="160.01" height="30" as="geometry" />
