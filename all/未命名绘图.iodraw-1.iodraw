@@ -160,13 +160,8 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-42" style="endArrow=block;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-32" target="dUIoEOEVRhIkLKBPthWE-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-41" style="endArrow=block;entryX=0.446;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.434;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-31" target="dUIoEOEVRhIkLKBPthWE-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="170" y="77" />
-              <mxPoint x="150" y="77" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-41" style="endArrow=block;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-31" target="dUIoEOEVRhIkLKBPthWE-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
