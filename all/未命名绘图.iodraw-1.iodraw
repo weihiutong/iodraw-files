@@ -7,9 +7,6 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-25" value="第一阶段：优先级判定" style="shape=rectangle;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="-500" y="315" width="360" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-26" value="第二阶段：多目标调度" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="375" width="380" height="360" as="geometry" />
-        </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-27" value="第三阶段：实时反馈优化" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="320" y="555" width="360" height="420" as="geometry" />
         </mxCell>
@@ -135,8 +132,14 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-65" target="dUIoEOEVRhIkLKBPthWE-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-80" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-20" y="415" width="220" height="290" as="geometry" />
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-81" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-100" y="340" width="380" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-26" value="第二阶段：多目标调度" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
+          <mxGeometry width="380" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-80" value="" style="group" vertex="1" connectable="0" parent="dUIoEOEVRhIkLKBPthWE-81">
+          <mxGeometry x="80" y="40" width="220" height="290" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-31" value="实时资源状态" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-80">
           <mxGeometry x="20" width="180" height="50" as="geometry" />
