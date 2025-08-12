@@ -13,7 +13,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-19" style="endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-9" target="qSh902Sbe6yWZwgtr0cW-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-23" value="平台迭代" style="endArrow=block;rounded=0;curved=0;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-13" target="qSh902Sbe6yWZwgtr0cW-4">
           <mxGeometry relative="1" as="geometry">
@@ -85,7 +89,7 @@
         <mxCell id="qSh902Sbe6yWZwgtr0cW-31" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="970" y="40" width="360" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-3" value="第三阶段：试点部署与演练评估" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-31">
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-3" value="第三阶段：试点部署与演练评估" style="shape=rectangle;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-31">
           <mxGeometry width="360" height="310" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-10" value="湘江流域试点部署" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-31">
