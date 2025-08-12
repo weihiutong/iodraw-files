@@ -134,6 +134,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="164.9949999999999" y="120" as="sourcePoint" />
             <mxPoint x="240" y="143.93000000000006" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="127.5" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-85" value="" style="endArrow=block;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-31" target="dUIoEOEVRhIkLKBPthWE-84">
