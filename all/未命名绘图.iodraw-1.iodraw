@@ -184,7 +184,7 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-35" value="执行与感知环境反馈" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-96">
           <mxGeometry x="56.38888888888888" y="40.002857142857124" width="177.22222222222214" height="46.78571428571426" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-36" value="感知：策略评估与自适应调整" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-36" value="策略评估与自适应调整" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
           <mxGeometry x="56.38888888888888" y="103.73904761904761" width="177.22222222222214" height="46.78571428571426" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-37" value="强化学习驱动迭代优化" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-83">
