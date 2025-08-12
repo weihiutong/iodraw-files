@@ -108,10 +108,10 @@
           <mxGeometry x="-460" y="440" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-61" value="天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="80" width="60" height="40" as="geometry" />
+          <mxGeometry x="-370" y="80" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-62" value="地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="80" width="50" height="30" as="geometry" />
+          <mxGeometry x="-300" y="80" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
