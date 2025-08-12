@@ -49,7 +49,7 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-48" style="endArrow=block;rounded=0;curved=0;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-30" target="dUIoEOEVRhIkLKBPthWE-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-110" y="555" />
+              <mxPoint x="-120" y="555" />
               <mxPoint x="-120" y="450" />
             </Array>
           </mxGeometry>
@@ -133,7 +133,7 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-65" target="dUIoEOEVRhIkLKBPthWE-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-81" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-81" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-110" y="320" width="320" height="315" as="geometry" />
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-26" value="第二阶段：多目标调度" style="shape=rectangle;dashed=1;fillColor=none;strokeColor=#000000;rounded=0;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
