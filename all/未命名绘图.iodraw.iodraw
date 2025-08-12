@@ -80,7 +80,7 @@
         <mxCell id="qSh902Sbe6yWZwgtr0cW-24" value="感知、预测等核心技术成果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-26" style="endArrow=block;" edge="1" parent="1">
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-26" style="endArrow=block;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="210" as="sourcePoint" />
             <mxPoint x="390" y="230" as="targetPoint" />
