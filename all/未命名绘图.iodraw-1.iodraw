@@ -42,15 +42,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-50" value="优先级更新" style="dashed=1;endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-38" target="dUIoEOEVRhIkLKBPthWE-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-340" y="945" />
-              <mxPoint x="-580" y="945" />
-              <mxPoint x="-580" y="405" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-56" value="" style="endArrow=block;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-29" target="dUIoEOEVRhIkLKBPthWE-55">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-330" y="415" as="sourcePoint" />
