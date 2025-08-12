@@ -154,7 +154,7 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-33" value="多平台协同与路径规划" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-81">
           <mxGeometry x="80.00000000000001" y="217.5" width="160.01" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-43" style="endArrow=block;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-33" target="dUIoEOEVRhIkLKBPthWE-34">
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-43" style="endArrow=block;entryX=0.854;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-81" source="dUIoEOEVRhIkLKBPthWE-33" target="dUIoEOEVRhIkLKBPthWE-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="162.63" y="230.37" as="targetPoint" />
           </mxGeometry>
