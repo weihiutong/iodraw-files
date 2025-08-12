@@ -70,9 +70,6 @@
         <mxCell id="dUIoEOEVRhIkLKBPthWE-52" value="空：无人机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-75">
           <mxGeometry width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-61" value="天：卫星" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-75">
-          <mxGeometry x="110" width="60" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-62" value="地：地面设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-75">
           <mxGeometry x="220" width="60" height="40" as="geometry" />
         </mxCell>
@@ -90,6 +87,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-99" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dUIoEOEVRhIkLKBPthWE-72">
+          <mxGeometry x="0.6295" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-73" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-75" target="dUIoEOEVRhIkLKBPthWE-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="80" as="sourcePoint" />
@@ -101,14 +103,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dUIoEOEVRhIkLKBPthWE-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-75" source="dUIoEOEVRhIkLKBPthWE-61" target="dUIoEOEVRhIkLKBPthWE-65">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="200" as="sourcePoint" />
-            <mxPoint x="110" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-53" value="&lt;span style=&quot;text-align: left;&quot;&gt;多源观测与预测数据输入&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(实测 + 预报)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-76">
           <mxGeometry x="-10" y="10" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-61" value="天：卫星" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dUIoEOEVRhIkLKBPthWE-76">
+          <mxGeometry x="145" y="60" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dUIoEOEVRhIkLKBPthWE-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dUIoEOEVRhIkLKBPthWE-76" source="dUIoEOEVRhIkLKBPthWE-61" target="dUIoEOEVRhIkLKBPthWE-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="260" as="sourcePoint" />
+            <mxPoint x="150" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dUIoEOEVRhIkLKBPthWE-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUIoEOEVRhIkLKBPthWE-65" target="dUIoEOEVRhIkLKBPthWE-29">
           <mxGeometry relative="1" as="geometry" />
