@@ -4,6 +4,33 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="40" width="400" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-1" value="第一阶段：平台集成与模块化封装" style="shape=rectangle;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-29">
+          <mxGeometry width="400" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-4" value="微服务架构" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-29">
+          <mxGeometry x="60" y="110" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-5" value="功能模块封装" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-29">
+          <mxGeometry x="60" y="180" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-6" value="跨平台数据接口与多源融合引擎" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-29">
+          <mxGeometry x="60" y="250" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-24" value="感知、预测等核心技术成果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-29">
+          <mxGeometry x="60" y="40" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-27" value="多源数据统一接入与时空对齐" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-29">
+          <mxGeometry x="60" y="320" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-14" style="endArrow=block;" edge="1" parent="qSh902Sbe6yWZwgtr0cW-29" source="qSh902Sbe6yWZwgtr0cW-4" target="qSh902Sbe6yWZwgtr0cW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-15" style="endArrow=block;" edge="1" parent="qSh902Sbe6yWZwgtr0cW-29" source="qSh902Sbe6yWZwgtr0cW-5" target="qSh902Sbe6yWZwgtr0cW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-16" style="endArrow=block;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;curved=0;" edge="1" parent="1" source="qSh902Sbe6yWZwgtr0cW-27" target="qSh902Sbe6yWZwgtr0cW-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -39,32 +66,10 @@
             <mxPoint x="380" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-29" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="40" width="400" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-1" value="第一阶段：平台集成与模块化封装" style="shape=rectangle;fillColor=none;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-29">
-          <mxGeometry width="400" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-4" value="微服务架构" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-29">
-          <mxGeometry x="60" y="110" width="280" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-5" value="功能模块封装" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-29">
-          <mxGeometry x="60" y="180" width="280" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-6" value="跨平台数据接口与多源融合引擎" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-29">
-          <mxGeometry x="60" y="250" width="280" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-24" value="感知、预测等核心技术成果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-29">
-          <mxGeometry x="60" y="40" width="280" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-27" value="多源数据统一接入与时空对齐" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="qSh902Sbe6yWZwgtr0cW-29">
-          <mxGeometry x="60" y="320" width="280" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-14" style="endArrow=block;" edge="1" parent="qSh902Sbe6yWZwgtr0cW-29" source="qSh902Sbe6yWZwgtr0cW-4" target="qSh902Sbe6yWZwgtr0cW-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-15" style="endArrow=block;" edge="1" parent="qSh902Sbe6yWZwgtr0cW-29" source="qSh902Sbe6yWZwgtr0cW-5" target="qSh902Sbe6yWZwgtr0cW-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qSh902Sbe6yWZwgtr0cW-28">
+          <mxGeometry x="-0.1186" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-30" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="570" y="40" width="360" height="250" as="geometry" />
