@@ -86,12 +86,12 @@
             <mxPoint x="379.71" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qSh902Sbe6yWZwgtr0cW-27" value="跨平台数据接口与多源融合引擎" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="300" width="280" height="50" as="geometry" />
+        <mxCell id="qSh902Sbe6yWZwgtr0cW-27" value="数据、预测结果与调度方案" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qSh902Sbe6yWZwgtr0cW-28" style="endArrow=block;" edge="1" parent="1" target="qSh902Sbe6yWZwgtr0cW-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="380" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
